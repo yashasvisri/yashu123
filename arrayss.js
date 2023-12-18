@@ -61,7 +61,7 @@ Juser.greetings = "Hello everyone! Welcome to my profile.";
 
 // Access the greeting property in Juser
 console.log(Juser.greetings);
-
+console.log("new line added");
 
 
 
